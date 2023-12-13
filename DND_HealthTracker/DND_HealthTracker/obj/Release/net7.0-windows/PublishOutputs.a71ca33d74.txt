@@ -1,0 +1,5 @@
+C:\Users\sizzl\OneDrive\Desktop\Stuff\DND_HealthTracker.exe
+C:\Users\sizzl\OneDrive\Desktop\Stuff\DND_HealthTracker.dll
+C:\Users\sizzl\OneDrive\Desktop\Stuff\DND_HealthTracker.deps.json
+C:\Users\sizzl\OneDrive\Desktop\Stuff\DND_HealthTracker.runtimeconfig.json
+C:\Users\sizzl\OneDrive\Desktop\Stuff\DND_HealthTracker.pdb

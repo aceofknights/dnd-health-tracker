@@ -1,0 +1,16 @@
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\obj\Debug\net7.0-windows\DND_HealthTracker.Form1.resources
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\obj\Debug\net7.0-windows\DND_HealthTracker.csproj.GenerateResource.cache
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\obj\Debug\net7.0-windows\DND_HealthTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\obj\Debug\net7.0-windows\DND_HealthTracker.AssemblyInfoInputs.cache
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\obj\Debug\net7.0-windows\DND_HealthTracker.AssemblyInfo.cs
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\obj\Debug\net7.0-windows\DND_HealthTracker.csproj.CoreCompileInputs.cache
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\bin\Debug\net7.0-windows\DND_HealthTracker.exe
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\bin\Debug\net7.0-windows\DND_HealthTracker.deps.json
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\bin\Debug\net7.0-windows\DND_HealthTracker.runtimeconfig.json
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\bin\Debug\net7.0-windows\DND_HealthTracker.dll
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\bin\Debug\net7.0-windows\DND_HealthTracker.pdb
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\obj\Debug\net7.0-windows\DND_HealthTracker.dll
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\obj\Debug\net7.0-windows\refint\DND_HealthTracker.dll
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\obj\Debug\net7.0-windows\DND_HealthTracker.pdb
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\obj\Debug\net7.0-windows\DND_HealthTracker.genruntimeconfig.cache
+C:\Users\sizzl\source\repos\DND_HealthTracker\DND_HealthTracker\obj\Debug\net7.0-windows\ref\DND_HealthTracker.dll
